@@ -31,7 +31,7 @@
 
 1. **Scarica il progetto**:
    ```bash
-   git clone https://github.com/tuhinshubhra/WPintel.git
+   git clone https://github.com/umberto94/WPintel.git
    cd WPintel
    ```
 
@@ -148,4 +148,4 @@ Per supporto, bug report o suggerimenti:
 
 ---
 
-<h4 align="center">Copyright (c) 2019-2024 Tuhinshubhra • Adattamento v3 (c) 2024 Umberto94</h4>
+<h4 align="center">Copyright (c) 2019-2025 Tuhinshubhra • Adattamento v3 (c) 2025	 Umberto94</h4>
